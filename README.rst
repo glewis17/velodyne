@@ -4,6 +4,8 @@ Overview
 Velodyne_ is a collection of ROS_ packages supporting `Velodyne high
 definition 3D LIDARs`_ .
 
+This repo is a fork of https://github.com/ros-drivers/velodyne, with modifications made for DDL use.
+
 **Warning**::
 
   The master branch normally contains code being tested for the next
